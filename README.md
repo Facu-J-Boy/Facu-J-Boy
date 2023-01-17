@@ -1,5 +1,14 @@
 <h1 align="center">Hola mundo, mi nombre es Facundo Boy</h1>
-<h3 align="center">Soy Fullstack developer</h3>
+
+<h3 align="left">¿QUIEN SOY?</h3>
+
+Soy fullstack developer de Argentina, me interesé en la programación a través del Bootcamp de Henry.
+
+<h3 align="left">¿QUÉ HAGO?</h3>
+Actualmente realizo proyectos para seguir mejorando mis habilidades como programador aprendiendo nuevas tecnologías.
+
+<h3 align="left">¿A DÓNDE ME DIRIJO?</h3>
+Mi principal objetivo es mejorar, aprendiendo nuevas tecnologias o mejorando mi forma de programar.
 
 <h3 align="left">¿QUÉ TECNOLOGIAS USO?</h3>
 </br>
