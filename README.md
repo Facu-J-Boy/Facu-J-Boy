@@ -4,13 +4,10 @@
 
 Mi nombre es Facundo Boy, soy de Argentina y soy fullstack developer, graduado del Bootcamp de Henry, tengo experiencia con Javascript, React.js, Redux, HTML, CSS, express, sequelize y postgreSQL.
 
-estoy en busca de mi primer trabajo como programador
+Estoy en busca de mi primer trabajo como programador con ganas de aportar en nuevos proyectos, aprender más, mejorar mis habilidades y conocer gente 
 
 <h3 align="left">¿QUÉ HAGO?</h3>
 Actualmente realizo proyectos para seguir mejorando mis habilidades como programador aprendiendo nuevas tecnologías.
-
-<h3 align="left">¿A DÓNDE ME DIRIJO?</h3>
-Mi principal objetivo es mejorar, aprendiendo nuevas tecnologias o mejorando mi forma de programar.
 
 <h3 align="left">¿QUÉ TECNOLOGIAS USO?</h3>
 </br>
