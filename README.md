@@ -1,8 +1,10 @@
-<h1 align="center">Hola mundo, mi nombre es Facundo Boy</h1>
+<h1 align="center">Hola mundo</h1>
 
 <h3 align="left">¿QUIEN SOY?</h3>
 
-Soy fullstack developer de Argentina, me interesé en la programación a través del Bootcamp de Henry.
+Mi nombre es Facundo Boy, soy de Argentina y soy fullstack developer, graduado del Bootcamp de Henry, tengo experiencia con Javascript, React.js, Redux, HTML, CSS, express, sequelize y postgreSQL.
+
+estoy en busca de mi primer trabajo como programador
 
 <h3 align="left">¿QUÉ HAGO?</h3>
 Actualmente realizo proyectos para seguir mejorando mis habilidades como programador aprendiendo nuevas tecnologías.
