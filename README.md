@@ -15,7 +15,8 @@ Actualmente realizo proyectos para seguir mejorando mis habilidades como program
 
 <h3 align="left">Proyectos:</h3>
 
-* [Henry-Music](https://henry-instruments-one.vercel.app/)
+* [Henry-Music](https://henry-instruments-nu.vercel.app)
+* [PI-Videogame](https://pi-videogame-lyart.vercel.app)
 
 <h3 align="left">Contactame:</h3>
 
