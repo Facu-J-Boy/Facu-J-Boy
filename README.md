@@ -48,6 +48,10 @@ Actualmente realizo proyectos para seguir mejorando mis habilidades como program
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40">
 </a>
+<a href="https://sequelize.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40">
+</a>
+
 
  </p>
 
