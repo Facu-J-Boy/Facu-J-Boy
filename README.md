@@ -49,6 +49,7 @@ Actualmente realizo proyectos para seguir mejorando mis habilidades como program
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40">
 </a>
 
+
  </p>
 
 <h3 align="left">Proyectos:</h3>
