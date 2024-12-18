@@ -24,7 +24,7 @@ UX-UI interfaces, communication skills, time management, proactivity and teamwor
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/>
 </a>
- <a href="mailto:azzar.mr.boyfacundo45@gmail.com" target="blank">
+ <a href="mailto:boyfacundo45@gmail.com" target="blank">
    <img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/>
