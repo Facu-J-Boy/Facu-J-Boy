@@ -1,73 +1,52 @@
-<h1 align="center">Hola mundo</h1>
+<h1 align="center">Hi, I'm <a href="https://facundo-boy.vercel.app/" target="blank">
+Facundo Boy</a></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Frontend+developer;Backend+developer&center=true&width=500&height=50"></a>
+</p>
 
-<h3 align="left">¿Quien soy?</h3>
+<h2 align="left">About Me</h2>
+<p>
+  Web developer with experience in developing user interfaces with React and designing REST APIs with
+Node.js and SQL and NoSQL database. I have worked on projects applying technologies such as Javascript, Typescript,
+HTML, CSS, React, Redux, Tailwind, SaaS, Node.js, Express, Sequelize, Mongoose, PostgreSQL, MongoDB, among others
+others, I have knowledge of Git version control, Docker management, scrum agile development,
+UX-UI interfaces, communication skills, time management, proactivity and teamwork.
+</p>
 
-Mi nombre es Facundo Boy, soy de Argentina y soy fullstack developer, graduado del Bootcamp de Henry, tengo experiencia con Javascript, React.js, Redux, HTML, CSS, express, sequelize y postgreSQL.
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-Estoy en busca de mi primer trabajo como programador con ganas de aportar en nuevos proyectos, aprender más, mejorar mis habilidades y conocer gente.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,bootstrap,tailwind,nodejs,express,postgres,mysql,mongodb,postman,git,docker&perline=8&theme=dark)](https://skillicons.dev)
 
-<h3 align="left">¿Qué hago?</h3>
-Actualmente realizo proyectos para seguir mejorando mis habilidades como programador aprendiendo nuevas tecnologías.
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<h3 align="left">¿Qué tecnologías uso?</h3>
-</br>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<a href="https://www.linkedin.com/in/facundo-boy-b7a368248/" target="blank">
+  <img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40">
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a> 
-<a href="https://sequelize.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40">
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+ <a href="mailto:azzar.mr.boyfacundo45@gmail.com" target="blank">
+   <img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/>
+ </a>
+<a href="https://wa.me/+5492364692584" target="blank">
+  <img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/>
 </a>
 
+<br>
 
- </p>
 
-<h3 align="left">Proyectos:</h3>
+  <br>
+  
 
-* [E-commerce](https://e-commerce-sigma-navy.vercel.app/)
-* [ToDo](https://todolist332.netlify.app)
+| ![Facundo's github stats](https://github-readme-stats.vercel.app/api?username=Facu-J-Boy&show_icons=true&theme=tokyonight) | ![Facundo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Facu-J-Boy&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Facu-J-Boy&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Facu-J-Boy&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-<h3 align="left">Contactame:</h3>
 
-* [Linkedin](https://www.linkedin.com/in/facundo-boy-b7a368248/)
-* cel: 2364-692584
-* email: boyfacundo45@gmail.com
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facu-j-boy&show_icons=true&locale=en&layout=compact" alt="facu-j-boy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facu-j-boy&show_icons=true&locale=en" alt="facu-j-boy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facu-j-boy&" alt="facu-j-boy" /></p>
+<br>
