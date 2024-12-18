@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://facundo-boy.vercel.app/" target="blank">
-Facundo Boy</a></h1>
+Facundo Boy</a>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;Frontend+developer;Backend+developer&center=true&width=500&height=50"></a>
 </p>
